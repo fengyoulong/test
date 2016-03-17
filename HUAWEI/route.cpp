@@ -8,7 +8,7 @@
 #define INF 32768
 #define MaxVertex 600
 #define MaxDemand 50
-//你要完成的功能总入口 hi
+//你要完成的功能总入口 hiqq
 void print_array(int row, int col, int array[][600])
 {
 	int i, j;
